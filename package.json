@@ -2,7 +2,7 @@
   "name": "mnandibusiness",
   "private": true,
   "proxy": "http://localhost:8000",
-  "homepage": ".",
+  "homepage": "./",
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.0",
     "@vis.gl/react-google-maps": "^1.4.2",
