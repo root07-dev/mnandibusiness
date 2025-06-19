@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities {
+    @font-face {
+        font-family: "autography";
+        font-style: normal;
+        font-weight: 700;
+        src: url("/src/fonts/AUTOGRAPHY.OTF"); /* IE9 Compat Modes */
+        
+    }
+    @font-face {
+        font-family: "century";
+        font-style: normal;
+        font-weight: 700;
+        src: url("/src/fonts/CENTURY.TTF"); /* IE9 Compat Modes */
+        
+    }
+}
